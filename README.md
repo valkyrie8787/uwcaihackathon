@@ -25,7 +25,7 @@
 1.  **학습된 모델 파일 다운로드:**
     -  UWC 2025 AI & 무인이동체 퓨처 해커톤 소스 코드_하늘조사병단 폴더 안 `trained_yolov8_model.pt` 파일을 다운로드하세요.
 2.  **데이터셋 파일 다운로드:**
-    - [이곳을 클릭하여 `YOLOv5-Thermal.v1i.yolov5pytorch.zip` 파일을 다운로드하세요.]((https://drive.google.com/file/d/1HF1D0WtNCs9BRj_6ZtRrPQSFdB9sjLRD/view?usp=drive_link))
+    - [이곳을 클릭하여 `YOLOv5-Thermal.v1i.yolov5pytorch.zip` 파일을 다운로드하세요.](https://drive.google.com/file/d/1HF1D0WtNCs9BRj_6ZtRrPQSFdB9sjLRD/view?usp=drive_link)
 3.  다운로드한 두 파일을 **본인 Google Drive의 특정 폴더**(예: `My Drive/Colab_Project/`)에 업로드합니다.
 
 ### **실행 절차 (Step-by-Step)**
